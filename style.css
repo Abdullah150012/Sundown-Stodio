@@ -39,6 +39,10 @@ nav h4 a{
     color: black;
     z-index: 9;
 }
+nav a img {
+    background-color: #EFEAE3;
+    height: 10vh;
+}
 nav h4{
     padding: 10px 20px;
     border: 1px solid rgba(0, 0, 0, 0.47);
